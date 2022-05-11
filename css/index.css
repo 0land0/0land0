@@ -3,6 +3,7 @@ link {
 }
 
 p {
-	font-size: 30px;
-	color: #6e6382;
+	font-size: 50px;
+	color: white;
+	background-color:rgba(0, 0, 0, 0.5);
 }
